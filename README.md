@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Tony, a Java, C++, and Kotlin Developer
+# Hi there! 👋 I'm Tony
 
 Welcome to my GitHub profile! I'm passionate about software development, primarily working with **Java**, **C++**, and **Kotlin**.
 
